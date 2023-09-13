@@ -1,0 +1,11 @@
+Sex_M0_F1,Age,Day_in_week,Day_in_month,Month,Quarter,Week_in_year,Week_in_month,Working_day,Day1_Night2,Population_with_income_per_unit_of_consumption_below_50perc_of_median,Population_with_income_per_consumption_unit_below_5000_Euros,Percentage_of_single_person_households,Percentage_of_population_aged_65_and_over,Percentage_of_population_under_18,Average_net_income_per_person,Average_household_size,Num_requests_last_months,Class_suicidal_behaviour
+0,10,2,1,1,1,1,1,0,2,13.0,5.4,30.4,23.6,11.4,12476.0,2.39,0,1
+1,20,7,9,6,2,23,2,0,1,25.8,13.0,29.6,21.8,18.5,8004.0,2.57,0,0
+0,30,7,16,6,2,24,3,0,2,22.2,10.1,28.0,25.7,17.3,8521.0,2.58,1,0
+1,40,2,15,4,2,16,3,1,1,16.4,6.5,18.9,13.6,19.1,9827.0,2.8,0,0
+0,50,5,2,1,1,1,1,1,2,18.2,8.1,18.3,14.0,17.5,10921.0,2.93,0,0
+1,60,1,28,6,2,26,4,0,1,8.4,4.6,25.8,28.0,18.4,14191.0,2.67,1,0
+0,70,2,6,7,3,28,2,1,1,11.9,6.2,20.6,4.8,31.9,10891.0,2.86,0,0
+1,80,5,9,7,3,28,2,1,2,24.0,12.0,33.6,20.8,17.4,9082.0,2.38,0,0
+0,90,7,25,7,3,30,4,0,1,31.5,19.1,24.2,18.0,19.6,6883.0,2.71,0,0
+1,100,5,31,12,4,53,5,1,2,15.4,9.3,37.1,20.7,17.7,13379.0,2.42,0,0
